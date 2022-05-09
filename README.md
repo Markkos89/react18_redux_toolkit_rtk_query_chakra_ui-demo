@@ -31,8 +31,7 @@ Runs on **port 5000**, all server data in **db.json** file. Might need to instal
 ## Description
 
 * Basic SPA - 3 routes: Home, Posts, Users.
-* Users are fetched from **[jsonplaceholder](https://jsonplaceholder.typicode.com)**.
-* Posts are working with **http://localhost:5000/** that runs with `yarn server` (so you can test API with **Redux-Toolkit** - GET, POST, PUT, DELETE).
+* Users and Posts are working with **http://localhost:5000/** that runs with `yarn server` (so you can test API with **Redux-Toolkit** - GET, POST, PUT, DELETE).
 
 ### Structure
 
