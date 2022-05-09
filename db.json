@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "qwerty qwerty ",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "title": "Just a new post",
+      "body": "Some description\n",
+      "id": 2
+    },
+    {
+      "title": "kslko k ok ok o",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 3
+    },
+    {
+      "title": "qaftardra afdradar ftafat",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 4
+    },
+    {
+      "title": "qweqweqw",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "asdasdas asdasdas"
+    },
+    {
+      "name": "Sarita Sabarnole",
+      "id": 3
+    },
+    {
+      "name": "11111 1111 ",
+      "id": 4
+    },
+    {
+      "name": "22222 22222",
+      "id": 5
+    },
+    {
+      "name": "33333 33333",
+      "id": 6
+    },
+    {
+      "name": "44444 44444",
+      "id": 7
+    },
+    {
+      "name": "5555 555555",
+      "id": 8
+    },
+    {
+      "name": "6666 666666",
+      "id": 9
+    },
+    {
+      "name": "77777 77777",
+      "id": 10
+    },
+    {
+      "name": "88888 888888",
+      "id": 11
+    },
+    {
+      "name": "999999 999999",
+      "id": 12
+    },
+    {
+      "name": "asdasd asdasdas",
+      "id": 13
+    }
+  ]
+}
